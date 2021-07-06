@@ -42,3 +42,13 @@ Goal to become a mid-level front-end developer in 2022.
     </div>
   );
 };`
+
+**My Projects:** https://dadavoloda.github.io/portfolio/
+
+### Work Expreience
+**Web-developer**
+
+PLACESTART / April 2021 - May 2021
+
+- website development
+- integration on wordpress
