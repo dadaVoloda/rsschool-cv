@@ -52,3 +52,7 @@ Goal to become a mid-level front-end developer in 2022.
 
 - website development
 - integration on wordpress
+
+### English
+
+**A2** Pre-Intermediate
