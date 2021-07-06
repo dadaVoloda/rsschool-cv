@@ -15,13 +15,13 @@ I have been doing web development since 2020. I'm more interested in�
 
 Goal to become a mid-level front-end developer in 2022.
 
-### Skils
+### Skills
 - HTML
 - CSS/SCSS
 - JavaScript (ES6, JQuery, React)
 - Gulp/Webpack
 
-### Example code
+### Example Code
 
 `const App = () => {
   return (
@@ -45,10 +45,10 @@ Goal to become a mid-level front-end developer in 2022.
 
 **My Projects:** https://dadavoloda.github.io/portfolio/
 
-### Work Expreience
+### Work Experience
 **Web-developer**
 
-PLACESTART / April 2021 - May 2021
+[PLACESTART](https://place-start.ru/) / April 2021 - May 2021
 
 - website development
 - integration on wordpress
